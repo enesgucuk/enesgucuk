@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://artificialintelligencen03home.files.wordpress.com/2019/03/ai.gif?w=385&h=217&zoom=2))](https://www.instagram.com/enesgucuk)
+[![MasterHead](https://artificialintelligencen03home.files.wordpress.com/2019/03/ai.gif)](https://www.instagram.com/enesgucuk)
 <h1 align="center">Hi 👋, I'm Enes 💁🏻</h1>
 <h3 align="center">An Artificial Intelligence Enthusiast from Turkey 🔥</h3>
 
