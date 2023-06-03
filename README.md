@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/enesgckolu" target="blank"><img src="https://img.shields.io/twitter/follow/enesgckolu?logo=twitter&style=for-the-badge" alt="enesgckolu" /></a> </p>
 
-- 🔭 I’m currently working from [GOOGLE-Inzva ML BOOTCAMP](https://inzva.com/2023/ai/bootcamps/google-developers-machine-learning-bootcamp)
+- 🔭 I’m currently working in [GOOGLE-Inzva ML BOOTCAMP](https://inzva.com/2023/ai/bootcamps/google-developers-machine-learning-bootcamp)
 
 - 🌱 I’m currently learning **Deep Learning, Tensorflow,**
 
