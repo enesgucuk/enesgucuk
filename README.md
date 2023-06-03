@@ -1,7 +1,7 @@
 [![MasterHead](https://artificialintelligencen03home.files.wordpress.com/2019/03/ai.gif)](https://www.instagram.com/enesgucuk)
 <h1 align="center">Hi 👋, I'm Enes 💁🏻</h1>
 <h3 align="center">An Artificial Intelligence Enthusiast from Turkey 🔥</h3>
-(img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1FFHMLqAtiVsGNyPpQ_-cMlKpT8hrfJHy/view?usp=sharing")
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1FFHMLqAtiVsGNyPpQ_-cMlKpT8hrfJHy/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesgucuk&label=Profile%20views&color=0e75b6&style=flat" alt="enesgucuk" /> </p>
 
