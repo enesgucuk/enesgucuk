@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/enesgckolu" target="blank"><img src="https://img.shields.io/twitter/follow/enesgckolu?logo=twitter&style=for-the-badge" alt="enesgckolu" /></a> </p>
 
-- 🔭 I’m currently working in [GOOGLE-Inzva ML BOOTCAMP](https://inzva.com/2023/ai/bootcamps/google-developers-machine-learning-bootcamp)
+- 🔭 I’m currently learning from [GOOGLE-Inzva ML BOOTCAMP](https://inzva.com/2023/ai/bootcamps/google-developers-machine-learning-bootcamp)
 
 - 🌱 I’m currently learning **Deep Learning, Tensorflow,**
 
@@ -20,3 +20,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enesgucuk&show_icons=true&locale=en&layout=compact" alt="enesgucuk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enesgucuk&show_icons=true&locale=en" alt="enesgucuk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enesgucuk&" alt="enesgucuk" /></p>
